@@ -28,7 +28,7 @@ they're scoring is whether the *pipeline and technique* are sound end to end.
 - `app.py` — the Streamlit dashboard (UI only, imports from `core.py`)
 
 ## Next concrete steps for your team
-1. Get a free Sentinel-2 scene over a known manganese belt (Copernicus Browser or
+1. Get a free  Sentinel-2 scene over a known manganese belt (Copernicus Browser or
    ISRO Bhoonidhi) and swap it into `make_reserve_grid()` using `rasterio`.
 2. Look up actual published ferrous/iron-oxide index formulas for your specific
    satellite's band numbers (Sentinel-2 bands differ from Landsat) — right now the
